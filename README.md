@@ -37,8 +37,8 @@ I am currently expanding my foundations in Data Structures and Algorithms, Theor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=c-o-d-e-r-s-a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-o-d-e-r-s-a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=c-o-d-e-r-s-a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-o-d-e-r-s-a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
 </p>
 
 ### 🚀 Highlighted Projects
