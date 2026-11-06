@@ -2,7 +2,7 @@
 
 **Computer Science Student @ Georgia State University Honors College**
 
-I am a software developer and undergraduate student passionate about artificial intelligence, full-stack development, data science, and cybersecurity. I enjoy building systems that solve real-world problems, from intelligent AI systems to high-performance real-time web apps.
+I am a software developer and undergraduate student passionate about artificial intelligence, full-stack development, data science, and cybersecurity. I enjoy building systems that solve real-world problems.
 
 I am currently expanding my foundations in Data Structures and Algorithms, Theoretical Computer Science, and Data Analysis, and I am actively seeking undergraduate research opportunities in AI, Cybersecurity, Distributed Systems, Cloud Computing, Big Data, or Systems Architecture.
 
